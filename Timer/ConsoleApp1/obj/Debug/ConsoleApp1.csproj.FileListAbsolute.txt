@@ -4,3 +4,9 @@ C:\Users\15327\source\repos\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.pd
 C:\Users\15327\source\repos\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\15327\source\repos\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\15327\source\repos\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\360安全浏览器下载\Project\Timer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\360安全浏览器下载\Project\Timer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\360安全浏览器下载\Project\Timer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\360安全浏览器下载\Project\Timer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\360安全浏览器下载\Project\Timer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\360安全浏览器下载\Project\Timer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
