@@ -17,8 +17,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Program program = new Program();
-            Console.WriteLine(Thread.CurrentThread.ManagedThreadId.ToString());
-
+            Console.WriteLine(Thread.CurrentThread.ManagedThreadId.ToString());//当前线程id
             Task.Run(() =>
             {
                 //Method1：阻止线程继续执行
